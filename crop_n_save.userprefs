@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="crop_n_save/QuickSaver.cs">
+    <Files>
+      <File FileName="crop_n_save/QuickCrop.cs" Line="70" Column="52" />
+      <File FileName="crop_n_save/QuickSaver.cs" Line="44" Column="12" />
+      <File FileName="crop_n_save/AssemblyInfo.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
